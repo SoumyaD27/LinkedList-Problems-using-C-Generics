@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UC6_DeleteLastElement", "UC6_DeleteLastElement.csproj", "{F6C57332-ACC7-4E7B-825B-DCA6AD3278FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6C57332-ACC7-4E7B-825B-DCA6AD3278FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6C57332-ACC7-4E7B-825B-DCA6AD3278FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6C57332-ACC7-4E7B-825B-DCA6AD3278FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6C57332-ACC7-4E7B-825B-DCA6AD3278FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {878183E3-BAFE-4005-B601-77E443E299A8}
+	EndGlobalSection
+EndGlobal
